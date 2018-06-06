@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Family Chess Club</title>
+    <link rel="stylesheet" href="~/content/css/style.css" type="text/css">
+    <!--[if IE 7]>
+        <link rel="stylesheet" href="css/ie7.css" type="text/css">
+    <![endif]-->
+    <!--[if IE 9]>
+        <link rel="stylesheet" href="css/ie9.css" type="text/css">
+    <![endif]-->
+</head>
+<body>
+    <div class="page">
+        <div class="background">
+            <div class="sidebar">
+                <a href="index" id="logo"><img src="~/content/images/logo.png" alt="logo"></a>
+                <ul class="navigation">
+                   
+                    <li class="selected"> <a href="~/home/index"> Home </a> </li>
+                    <li>@Html.ActionLink("About", "about", "Home")</li>
+                    <li>@Html.ActionLink("Classes", "classes", "Home")</li>
+                    <li>@Html.ActionLink("Tournaments", "tournaments", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "contact", "Home")</li>
+                    <li>@Html.ActionLink("Blog", "blog", "Home")</li>
+                    <li >@Html.ActionLink("Play", "play", "Home")</li>
+                </ul>
+            </div>
+            <div class="body">
+                <div>
+                    <div class="figure">
+                        <img src="~/content/images/chess.jpg" alt="">
+                    </div>
+                    <div>
+                        <h3>A Chess Club For All Ages</h3>
+                        <p>
+                           Welcome to chess club, a chess website designed for your whole family! by <a href="http://www.nitafaulu.wordpress.com/"> Mash </a> for you, for free. feel free to talk to us incase of any issues on this website. our contact form is here -> <a href="home/contact"> Contact us </a>  
+                        </p>
+                        <div class="first">
+                            <p>
+                                Classes And <br> Tutorials For Kids <br> Private Or Group
+                            </p>
+                            <div>
+                                <p>
+                                    Choose between private and group classes for kids or adults. It's never too late to learn how to play chess!
+                                </p>
+                                <a href="classes.html">Learn More</a>
+                            </div>
+                        </div>
+                        <div>
+                            <p>
+                                The Exclusive Club <br> Chess Set
+                            </p>
+                            <div>
+                                <p>
+                                    Carved from hard wood by hand and finished off with italian varnish. Only 10 sets made in the world.
+                                </p>
+                                <a href="blog.html">Go to Blog</a>
+                            </div>
+                        </div>
+                        <div class="section">
+                            <h3>Chess Tip Of The Day</h3>
+                            <p>
+                               Always think four moves ahead of your action. it will throw your opponent into fracas and you'll eventually win! trust us, we do that all day every day!
+                            </p>
+                            <a href="classes.html">More Tips</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div>
+                <div>
+                    <div>
+                        <h3>Latest Blog Posts</h3>
+                        <ul>
+                            <li>
+                                <h4>Read more on our blog</h4>
+                                <p style="color:aliceblue">Read interesting pieces from our top bloggers Kiragu and Otoyo.</p>
+                            </li>
+                            <li>
+                                <h4>We are delighted you are here!</h4>
+                                <p>Pay via paypal to be a member</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Newsletter</h3>
+                        <p>
+                            Sign up and be the first to get exclusive news and updates.
+                        </p>
+                        <form action="about">
+                            <input type="text" value="Email Address" onblur="this.value=!this.value?'Email Address':this.value;" onfocus="this.select()" onclick="this.value='';">
+                            <input type="submit" value="">
+                        </form>
+                    </div>
+                    <div class="connect">
+                        <div id="facebook">
+                            <a href="http://facebook.com/familychess">facebook</a>
+                        </div>
+                        <div id="twitter">
+                            <a href="http://twitter.com/familychess">twitter</a>
+                        </div>
+                        <div id="googleplus">
+                            <a href="http://googleplus.com/familychess">google+</a>
+                        </div>
+                    </div>
+                </div>
+                <ul>
+                    <li>
+                        <a href="~/home/index">Home</a>
+                    </li>
+                    <li>
+                        <a href="~/home/about">About Us</a>
+                    </li>
+                    <li>
+                        <a href="~/home/classes">Classes</a>
+                    </li>
+                    <li>
+                        <a href="~/home/tournaments">Tournaments</a>
+                    </li>
+                    <li>
+                        <a href="~/home/contact">Contact Us</a>
+                    </li>
+                    <li>
+                        <a href="~/home/blog">Blog</a>
+                    </li>
+                </ul>
+                <p>
+                    &#169; 2016 Family Chess Club. All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

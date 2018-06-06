@@ -1,0 +1,83 @@
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\Chess.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\Chess.pdb
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\Microsoft.Web.Infrastructure.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Net.Http.Formatting.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Helpers.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Http.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Http.WebHost.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Mvc.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Razor.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.WebPages.Deployment.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.WebPages.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.WebPages.Razor.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Net.Http.Formatting.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Helpers.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Http.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Http.WebHost.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Mvc.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.Razor.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.WebPages.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.WebPages.Deployment.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\bin\System.Web.WebPages.Razor.xml
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\obj\Debug\Chess.dll
+c:\users\m_arslan1\documents\visual studio 2012\Projects\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\m_arslan1\Documents\Visual Studio 2012\Projects\Chess\Chess\bin\Newtonsoft.Json.dll
+C:\Users\m_arslan1\Documents\Visual Studio 2012\Projects\Chess\Chess\bin\Newtonsoft.Json.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\Chess.dll.config
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\Chess.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\Chess.pdb
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\Newtonsoft.Json.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Net.Http.Formatting.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Helpers.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Http.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Http.WebHost.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Mvc.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Razor.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.WebPages.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.WebPages.Razor.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\Newtonsoft.Json.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Net.Http.Formatting.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Helpers.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Http.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Http.WebHost.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Mvc.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.Razor.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.WebPages.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\bin\System.Web.WebPages.Razor.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\obj\Debug\Chess.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\webdownloads\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\Chess.dll.config
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\Chess.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\Chess.pdb
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\Newtonsoft.Json.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Net.Http.Formatting.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Helpers.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Http.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Http.WebHost.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Mvc.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Razor.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.WebPages.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.WebPages.Razor.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\Newtonsoft.Json.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Net.Http.Formatting.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Helpers.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Http.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Http.WebHost.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Mvc.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.Razor.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.WebPages.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\System.Web.WebPages.Razor.xml
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\obj\Debug\Chess.dll
+C:\Users\Macharia Muguku\Documents\Visual Studio 2015\Projects\Chess\Chess\obj\Debug\Chess.pdb
